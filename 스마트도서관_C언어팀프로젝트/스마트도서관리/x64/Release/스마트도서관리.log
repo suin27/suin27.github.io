@@ -1,0 +1,11 @@
+﻿  book_delete.c
+  book_search.c
+  book_util.c
+  lib.c
+  main.c
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\KB\Desktop\26일 최종통합 v1.8.3\스마트도서관리\register.c(45): warning C4715: 'cert_w': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 52 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  스마트도서관리.vcxproj -> C:\Users\KB\Desktop\26일 최종통합 v1.8.3\x64\Release\스마트도서관리.exe
