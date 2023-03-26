@@ -1,0 +1,28 @@
+REM INSERTING into TEAMPRO.MANAGER
+SET DEFINE OFF;
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('CL001','이상봉','의류관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('CL002','한혜진','의류관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('CL003','김상봉','의류관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('CL004','박혜진','의류관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('FO001','이영자','식품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('FO002','김준현','식품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('FO003','박영자','식품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('FO004','강준현','식품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('GO001','이잡화','잡화관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('GO002','마미손','잡화관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('GO003','박잡화','잡화관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('GO004','김손미','잡화관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('BE001','수지','화장품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('BE002','한효주','화장품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('BE003','한수지','화장품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('BE004','박효주','화장품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('DA001','정용진','생활용품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('DA002','신동빈','생활용품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('DA003','길동빈','생활용품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('DA004','강용진','생활용품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('HI001','이재용','가전제품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('HI002','구광모','가전제품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('HI003','서재용','가전제품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('HI004','서광모','가전제품관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('LV001','윤기철','가구관리팀');
+Insert into TEAMPRO.MANAGER (MID,MNAME,MTEAM) values ('LV002','이기철','가구관리팀');
