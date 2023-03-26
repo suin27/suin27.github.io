@@ -1,0 +1,337 @@
+drop table trainer;
+  CREATE TABLE "TRAINER" 
+   (	"NAME" VARCHAR2(20 BYTE), 
+	"ID" VARCHAR2(20 BYTE), 
+	"PASSWD" VARCHAR2(20 BYTE), 
+	"TNO" VARCHAR2(20 BYTE)
+   )  ;
+
+SET DEFINE OFF;
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성가종','lapoo12','@l$eepigwdwm','1_001');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이재서','kimss77','6789i@!iaa','1_002');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성정우','lappp1921','967877ii','1_003');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김길혜','leejo3723','33pigss','1_004');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강성인','aquaaa33','c$!hoaquaii','1_005');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성재범','kimpp391','124522dq','1_006');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우가혜','lapss33','1245i@!iaa','1_007');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강하우','sqda1245','1921lap!!#$','1_008');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('임영훈','ringii33','3322@21!$','1_009');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우정인','ringpp11','456744@21!$','1_010');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강하우','ringii678','67822wdwm','1_011');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박명종','pigss1245','39111!!#$','1_012');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김하인','chojo77','967811asdft','1_013');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강지훈','aquaii33','3388asdft','1_014');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김영범','chott6789','481233da','1_015');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이가혜','choaa77','173444wdwm','1_016');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤지우','chooo33','3333ss','1_017');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문지종','aquadq6453','4567pigwdwm','1_018');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('임하범','ringoo0021','@l$ee66aa','1_019');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박영우','leess0021','kim@33!!#$','1_020');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성성원','kimjo44','124522ii','1_021');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문유서','leeoo1734','678944aa','1_022');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이길은','lapaa22','391i@!iaa','1_023');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우가종','pigdq6453','4812pig!!#$','1_024');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤성훈','ringdq6453','678988aa','1_025');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문가환','parkdq99','1244asdft','1_026');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성성은','moonoo1221','c$!homoon@21!$','1_027');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성길원','moonda77','1921\@#o@21!$','1_028');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('임영원','chodq6453','67891ss2@21!$','1_029');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이길은','chopp1902','3355dq','1_030');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문재종','moonda66','1277da','1_031');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강하환','pigda3723','33t2!tdq','1_032');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문길범','chojo12','456777dq','1_033');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김길서','kimdq1734','kim@i@!iaa','1_034');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤동훈','aquaoo99','4567\@#owdwm','1_035');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤길우','sqpp88','@l$eepigdq','1_036');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강명인','leeaa0021','p!@a#rk33wdwm','1_037');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤길준','kimaa33','1734moonda','1_038');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박정성','parkpp1734','c$!ho55tt','1_039');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤길은','leedq6453','p!@a#rk\@#oasdft','1_040');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문동범','aquaaa9678','4567moondq','1_041');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강명환','pigaa4812','kim@66aa','1_042');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강성원','ringss1921','456788!!#$','1_043');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문하원','aquajo1921','678911dq','1_044');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('임길우','choii33','173433@21!$','1_045');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박동환','leess6453','192122!!#$','1_046');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우명환','chojo6453','4812moonwdwm','1_047');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('임동성','leeaa391','4812i@!ida','1_048');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문가준','pigii00','c$!hoaquaaa','1_049');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우명인','parkpp4812','kim@t2!tasdft','1_050');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우재훈','parkjo1902','3344ii','1_051');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우성인','sqdq12','kim@pigtt','1_052');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이재원','chott391','p!@a#rk55tt','1_053');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이성우','pigaa678','kim@t2!ttt','1_054');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('최길준','sqss00','173466asdft','1_055');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문영종','moonoo22','3311dq','1_056');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김동환','sqaa1245','331ss2ii','1_057');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박지범','moonii9678','3311!!#$','1_058');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문하성','kimda33','67822ii','1_059');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이가종','pigda0021','p!@a#rk11wdwm','1_060');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤재서','sqoo00','1921pigaa','1_061');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김재준','sqii1245','p!@a#rk88dq','1_062');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤가혜','leeda00','967844aa','1_063');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박동종','laptt11','391a12#ada','1_064');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('임정우','lapaa00','c$!hopigasdft','1_065');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박영우','sqii4812','4812moon!!#$','1_066');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성길우','sqoo391','391moonasdft','1_067');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문명인','moonjo3723','678944ii','1_068');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김성혜','kimjo33','173477da','1_069');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박동혜','parkoo00','33a12#att','1_070');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성성우','parkss6789','@l$ee11aa','1_071');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박유준','ringdq678','@l$ee66aa','1_072');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성재범','moonaa11','39111@21!$','1_073');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박지원','parkjo6789','481288dq','1_074');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박가성','aquaoo44','678922tt','1_075');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김명혜','leess4812','967833da','1_076');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('윤재은','parkii33','124588asdft','1_077');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우성우','parktt9678','p!@a#rk33@21!$','1_078');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('최하성','aquadq3723','12aquaii','1_079');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('최정종','sqdq22','c$!ho22da','1_080');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이성은','pigii9678','481277tt','1_081');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강성인','kimdq678','67844tt','1_082');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이유범','pigss6789','@l$eemoontt','1_083');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('박지서','sqaa6453','456733da','1_084');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('김유혜','sqii33','6789pigss','1_085');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우재범','moonaa33','p!@a#rk1ss2asdft','1_086');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('성명종','lapii00','67844tt','1_087');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문정인','choss3723','@l$ee66tt','1_088');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이유혜','moonpp6453','1734\@#o!!#$','1_089');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('최동은','leeoo6453','9678t2!t@21!$','1_090');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이명환','ringoo1734','6789lapii','1_091');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이길범','moonjo1221','p!@a#rk22da','1_092');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우명환','leeoo4812','@l$eelapii','1_093');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우길인','moonss77','kim@77aa','1_094');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('최정우','chojo0021','678988@21!$','1_095');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('최동혜','kimpp12','kim@66aa','1_096');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('이유우','leeda6453','481222tt','1_097');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('강영종','parkjo6453','67811da','1_098');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('우지원','aquada33','3333dq','1_099');
+Insert into TRAINER (NAME,ID,PASSWD,TNO) values ('문재종','kimpp1245','c$!hot2!taa','1_100');
+
+drop table schedule;
+  CREATE TABLE "SCHEDULE" 
+   (	"DAY" VARCHAR2(20 BYTE), 
+	"WEEK" VARCHAR2(20 BYTE), 
+	"MONTH" VARCHAR2(20 BYTE), 
+	"MNO" NUMBER
+   )  ;
+
+
+Insert into SCHEDULE (DAY,WEEK,MONTH,MNO) values ('28','4','12',1001);
+Insert into SCHEDULE (DAY,WEEK,MONTH,MNO) values ('28','10','12',1002);
+
+drop table present;
+  CREATE TABLE "PRESENT" 
+   (	"MNO" VARCHAR2(20 BYTE), 
+	"NAME" VARCHAR2(20 BYTE), 
+	"PTDATE" VARCHAR2(20 BYTE), 
+	"PTTIME" VARCHAR2(20 BYTE), 
+	"EXERCISE" VARCHAR2(120 BYTE), 
+	"MENU" VARCHAR2(80 BYTE), 
+	"ACHIEVEMENT" VARCHAR2(20 BYTE)
+   ) ;
+
+Insert into PRESENT (MNO,NAME,PTDATE,PTTIME,EXERCISE,MENU,ACHIEVEMENT) values (null,'박','12월1일','10분','달리기   ','샐러드','출석');
+Insert into PRESENT (MNO,NAME,PTDATE,PTTIME,EXERCISE,MENU,ACHIEVEMENT) values ('1','지영훈','5월17일','50분','달리기 자전거  ','샐러드','출석');
+Insert into PRESENT (MNO,NAME,PTDATE,PTTIME,EXERCISE,MENU,ACHIEVEMENT) values ('2','박광열','5월18일','60분','유산소',null,'결석');
+Insert into PRESENT (MNO,NAME,PTDATE,PTTIME,EXERCISE,MENU,ACHIEVEMENT) values ('3','정윤환','12월 30일','45분','점프 스쿼트 달리기  ','잡곡밥(2/3),오리고기','출석');
+
+
+drop table member;
+  CREATE TABLE "MEMBER" 
+   (	"MNO" VARCHAR2(20 BYTE), 
+	"NAME" VARCHAR2(20 BYTE), 
+	"BIRTH" VARCHAR2(20 BYTE), 
+	"TALL" VARCHAR2(20 BYTE), 
+	"WEIGHT" VARCHAR2(20 BYTE), 
+	"BFP" VARCHAR2(20 BYTE), 
+	"BMI" VARCHAR2(20 BYTE), 
+	"GENDER" VARCHAR2(20 BYTE), 
+	"TEL" VARCHAR2(20 BYTE), 
+	"TNAME" VARCHAR2(20 BYTE), 
+	"MIMAGE" BLOB
+   ) ;
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('1234','1234','2023년1월1일','1234','1234','1234','1234','남자','1234','1234');
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_001','문유성','1977년 06월 27일','186','58','23','17 ','여','010-1515-4856',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_002','우동원','1997년 05월 13일','158','86','31','34 ','여','010-4785-2452',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_003','강재범','2006년 04월 11일','152','66','25','29 ','남','010-0805-8255',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_004','성정우','2000년 09월 29일','184','57','32','17 ','여','010-0268-7671',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_005','강명종','1983년 02월 18일','186','64','23','18 ','남','010-5735-4454',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_006','문명혜','2005년 09월 21일','169','52','26','18 ','남','010-5338-5254',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_007','문성환','1979년 04월 08일','151','49','35','21 ','남','010-6815-3280',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_008','임하준','1965년 08월 03일','172','46','18','16 ','남','010-1171-3753',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_009','성영준','1971년 12월 25일','183','56','10','17 ','남','010-2153-2442',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_010','성성혜','1971년 07월 17일','163','74','29','28 ','여','010-8483-6280',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_011','강지서','1967년 07월 14일','189','58','31','16 ','남','010-5100-2022',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_012','문성우','2009년 02월 08일','161','69','8','27 ','여','010-0634-4766',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_013','윤재우','1963년 10월 14일','185','81','19','24 ','남','010-2584-1426',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_014','윤성인','1962년 09월 24일','186','77','13','22 ','남','010-4535-6373',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_015','성영원','2007년 01월 08일','175','50','30','16 ','여','010-4207-0167',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_016','임성서','1993년 02월 21일','157','58','33','24 ','남','010-3278-8411',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_017','박재원','1976년 10월 29일','151','47','31','21 ','여','010-6528-8315',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_018','성가환','2006년 05월 24일','187','72','12','21 ','남','010-6626-3867',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_019','성가종','2003년 04월 25일','151','54','36','24 ','남','010-0801-2348',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_020','윤길혜','2008년 04월 03일','150','53','13','24 ','남','010-2656-7144',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_021','김동우','2009년 02월 13일','150','89','36','40 ','여','010-4884-7847',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_022','임지준','2010년 03월 19일','185','85','38','25 ','여','010-2481-3415',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_023','문명서','1985년 05월 22일','163','87','25','33 ','여','010-3147-3037',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_024','성가원','1971년 08월 24일','188','60','24','17 ','여','010-2226-0133',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_025','박성서','1977년 02월 06일','173','82','22','27 ','여','010-3884-1716',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_026','박지훈','1999년 09월 25일','158','86','15','34 ','남','010-3846-7047',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_027','이지성','1999년 11월 17일','183','57','9','17 ','남','010-5585-4412',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_028','강가서','1976년 01월 06일','150','51','11','23 ','여','010-0076-5805',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_029','박영종','2011년 01월 22일','166','80','24','29 ','남','010-6855-6455',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_030','김하종','1977년 03월 25일','175','62','25','20 ','남','010-1014-7664',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_031','윤유범','1963년 01월 21일','174','56','24','18 ','남','010-1255-6531',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_032','박가환','1986년 03월 25일','150','65','34','29 ','남','010-1136-1208',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_033','임성성','2000년 04월 20일','165','45','35','17 ','남','010-6157-1503',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_034','문유준','1986년 04월 12일','185','77','37','22 ','여','010-3180-8031',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_035','우하원','1990년 12월 03일','175','87','11','28 ','남','010-8057-7403',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_036','윤길인','1977년 12월 03일','153','90','23','38 ','남','010-5481-2750',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_037','임재원','2010년 07월 02일','184','48','32','14 ','여','010-5842-0411',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_038','강지범','1980년 12월 29일','179','52','19','16 ','남','010-7523-7417',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_039','임명환','2007년 01월 28일','174','48','24','16 ','여','010-0477-7658',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_040','김동환','1987년 01월 27일','179','48','14','15 ','여','010-6512-1677',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_041','우재원','1971년 02월 18일','188','56','33','16 ','남','010-4701-6083',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_042','김지성','2006년 02월 26일','160','97','23','38 ','남','010-5832-6440',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_043','임성서','2012년 08월 17일','164','67','38','25 ','여','010-4370-4285',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_044','윤길범','1968년 04월 13일','177','59','16','19 ','여','010-6015-2230',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_045','임지훈','1987년 08월 13일','170','96','13','33 ','여','010-5133-2400',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_046','윤지환','2005년 04월 17일','176','72','12','23 ','여','010-0685-7538',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_047','우정환','1977년 05월 19일','183','77','34','23 ','여','010-1013-5061',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_048','이동우','1990년 12월 09일','177','67','16','21 ','여','010-0570-7367',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_049','성유환','1965년 04월 28일','179','56','38','17 ','여','010-7411-5186',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_050','우동인','1968년 08월 06일','187','94','34','27 ','남','010-3888-0185',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_051','윤성범','1988년 02월 20일','187','68','13','19 ','여','010-1624-5574',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_052','문성성','2002년 06월 30일','163','72','11','27 ','여','010-8376-2383',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_053','박동준','1994년 07월 24일','152','85','23','37 ','남','010-3542-1425',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_054','윤동성','1965년 07월 04일','160','73','16','29 ','여','010-4742-2455',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_055','김동서','1974년 02월 15일','171','54','33','18 ','남','010-2406-6617',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_056','이가훈','1983년 05월 26일','151','67','27','29 ','여','010-4301-8140',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_057','이명종','2006년 04월 30일','172','93','30','31 ','여','010-0362-2526',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_058','임영서','1991년 01월 07일','162','98','19','37 ','여','010-6737-4013',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_059','성성범','2006년 06월 09일','175','94','17','31 ','여','010-3612-4084',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_060','윤유환','2001년 06월 16일','161','45','32','17 ','여','010-8328-3243',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_061','성지준','1972년 07월 14일','161','97','20','37 ','여','010-3657-0180',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_062','임유인','2003년 08월 27일','185','90','33','26 ','남','010-3044-8824',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_063','성재환','1963년 03월 21일','155','57','9','24 ','여','010-5530-8815',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_064','강유환','1967년 06월 12일','153','56','14','24 ','남','010-0300-7853',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_065','임지서','1979년 09월 05일','175','97','18','32 ','여','010-8822-3543',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_066','우유성','2008년 07월 29일','184','59','19','17 ','여','010-5753-1886',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_067','우길원','2011년 09월 12일','183','93','34','28 ','남','010-7740-5674',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_068','성성환','1982년 05월 31일','171','89','9','30 ','남','010-5416-6668',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_069','문명우','1989년 08월 03일','161','57','23','22 ','남','010-8423-6761',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_070','최재성','1969년 03월 25일','160','61','26','24 ','남','010-6616-4271',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_071','임길준','1998년 10월 17일','172','83','8','28 ','여','010-5447-0551',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_072','강하우','1977년 07월 25일','176','97','29','31 ','남','010-7421-5164',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_073','문길원','2000년 10월 05일','184','51','31','15 ','여','010-1763-0488',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_074','김재혜','1995년 05월 15일','183','67','20','20 ','남','010-8174-4518',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_075','최성훈','2006년 07월 07일','152','55','23','24 ','남','010-8686-6745',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_076','강재혜','1975년 07월 29일','155','67','12','28 ','남','010-7211-7868',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_077','최하혜','1975년 02월 19일','153','73','23','31 ','남','010-2075-1115',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_078','임명원','1987년 05월 29일','175','79','11','26 ','여','010-4803-1622',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_079','강정은','2001년 10월 21일','164','88','25','33 ','여','010-6825-3871',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_080','이성성','1986년 10월 26일','179','67','21','21 ','여','010-6871-2123',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_081','이성훈','2009년 07월 12일','173','88','17','29 ','여','010-0178-2471',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_082','박가환','1994년 04월 07일','150','54','24','24 ','여','010-0613-6513',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_083','문하성','1972년 06월 11일','189','56','37','16 ','여','010-0401-7011',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_084','우하종','1985년 06월 21일','167','63','13','23 ','남','010-1184-6560',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_085','윤하환','2011년 12월 12일','179','64','16','20 ','여','010-7707-5177',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_086','최성성','1980년 04월 29일','166','56','37','20 ','남','010-6541-8053',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_087','임하은','1987년 10월 26일','173','97','16','32 ','여','010-8443-6076',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_088','임재종','2011년 01월 28일','166','84','13','30 ','여','010-2702-4657',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_089','김명준','1967년 02월 12일','167','94','18','34 ','남','010-7352-3107',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_090','최재준','1980년 04월 18일','184','92','33','27 ','여','010-4444-4622',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_091','윤길범','2009년 07월 11일','153','85','36','36 ','여','010-4822-0646',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_092','박재범','2010년 01월 01일','152','95','23','41 ','남','010-4038-1018',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_093','성성성','2006년 01월 24일','151','64','30','28 ','남','010-0125-0688',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_094','강길인','1994년 07월 13일','167','84','14','30 ','여','010-7537-4828',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_095','우정훈','1992년 01월 08일','188','56','23','16 ','여','010-1776-6052',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_096','박유준','1988년 06월 04일','189','76','9','21 ','여','010-4383-3732',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_097','임하범','1967년 12월 24일','179','60','17','19 ','남','010-1866-1431',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_098','임재원','2010년 08월 27일','182','76','26','23 ','남','010-3320-5648',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_099','강길종','1967년 06월 08일','187','46','30','13 ','여','010-0134-6477',null);
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('6001','육천일','2022년1월1일','125','50','50','40','남자','010-11-','육천');
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('5555','오천오','2000년10월2','155','55','40','50','남자','010-5000-5005','이성계');
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('1001','일천일','2001년1월1일','170','70','60','50','여자','010-1111-1111','궁예2');
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2111','이일삼','2013년1월3일','170','62','40','50','남자','010-2013-0103','일이삼사');
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('9001','구천일','2021년2월2일','170','65','50','50','남자','010-1111-9001','구천');
+Insert into MEMBER (MNO,NAME,BIRTH,TALL,WEIGHT,BFP,BMI,GENDER,TEL,TNAME) values ('2_100','이지훈','1974년 09월 09일','183','77','13','23 ','남','010-6386-1445',null);
+
+
+drop table food;
+  CREATE TABLE "FOOD" 
+   (	"TYPE" VARCHAR2(40 BYTE), 
+	"NAME" VARCHAR2(40 BYTE), 
+	"CALORIE" VARCHAR2(20 BYTE), 
+	"CARBOHYDRATE" VARCHAR2(20 BYTE), 
+	"FAT" VARCHAR2(20 BYTE), 
+	"PROTEIN" VARCHAR2(20 BYTE), 
+	"MENU" VARCHAR2(20 BYTE), 
+	"EAT" VARCHAR2(20 BYTE)
+   ) ;
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('과일','과일 샐러드','57','13.16','0.86','0.67','건강 식단','저녁');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('육류','소고기 등심','252','0','15.01','27.29','고단백 식단','저녁');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('유제품 및 시리얼','삶은 계란','77','0.56','5.28','6.26','다이어트 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('과일','바나나','105','26.95','0.39','1.29','건강 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('유제품 및 시리얼','우유(1컵)','122','11.49','4.88','8.03','고단백 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('육류','오리고기','132','0','5.95','18.28','건강 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('국류','미역국(230g)','83','5.59','3.73','7.87','다이어트 식단','저녁');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('밥류','잡곡밥(2/3)','203','43.86','1.18','5.26','다이어트 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('국류','된장국(200g)','76','9.93','1.85','5.55','다이어트 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('유제품 및 시리얼','식빵(2조각)','132','25.3','1.64','3.82','다이어트 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('유제품 및 시리얼','저지방 우유(200ml)','80','10','2','6','다이어트 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('밥류','닭가슴살 야채볶음밥','320','58','4.4','12','고단백 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','양배추 샐러드','41','7.45','1.57','0.77','다이어트 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('생선','삼치구이(50g)','90','0.10','5.55','9.32','다이어트 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','콩나물(70g)','16','2.63','0.27','2.01','다이어트 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','배추김치(50g)','11','2.08','0.16','0.66','다이어트 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('밥류','콩밥(2/3)','173','37.28','0.99','4.55','다이어트 식단','저녁');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('견과류 및 과일','자몽','41','10.34','0.13','0.81','다이어트 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('견과류 및 과일','사과','72','19.06','0.23','0.36','고단백 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','토마토 샐러드','165','19','7','7','고단백 식단','아침');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('밥류','현미밥','321','68.95','1.53','6.3','고단백 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','닭가슴살 샐러드','201','2.13','16.36','11.11','고단백 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','백김치(50g)','11','2.37','0.09','0.6','고단백 식단','점심');
+Insert into FOOD (TYPE,NAME,CALORIE,CARBOHYDRATE,FAT,PROTEIN,MENU,EAT) values ('채소류','단호박찜','17','4.12','0.09','0.58','고단백 식단','점심');
+
+
+drop table exercise;
+  CREATE TABLE "EXERCISE" 
+   (	"EX_CLASSIFICATION" VARCHAR2(20 BYTE), 
+	"EX_TYPE" VARCHAR2(20 BYTE), 
+	"EX_CAL15" NUMBER, 
+	"EX_CAL30" NUMBER, 
+	"EX_CAL60" NUMBER, 
+	"MNO" NUMBER
+   ) ;
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('유산소','걷기',50,120,250,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('유산소','달리기',147,294,588,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('유산소','자전거',58,132,271,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('유산소','줄넘기',184,368,735,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('크로스핏','버피',129,257,514,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('크로스핏','점프 스쿼트',210,480,990,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('크로스핏','케틀벨 스윙',300,600,1200,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('크로스핏','턱걸이',75,150,300,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('크로스핏','로잉 머신',150,310,630,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('크로스핏','박스 점프',230,480,1000,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','랫 풀 다운',56,121,245,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','레그 익스텐션',54,112,225,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','레그 컬',56,118,233,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','숄더 프레스',48,99,199,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','체스트 프레스',52,110,220,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','펙덱 플라이',44,90,182,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('머신 운동','시티드 로우',55,113,228,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('프리웨이트','스쿼트',75,160,460,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('프리웨이트','데드리프트',210,432,890,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('프리웨이트','벤치프레스',147,294,588,null);
+Insert into EXERCISE (EX_CLASSIFICATION,EX_TYPE,EX_CAL15,EX_CAL30,EX_CAL60,MNO) values ('프리웨이트','덤벨 컬',89,190,400,null);
+
+
+drop table diet;
+  CREATE TABLE "DIET" 
+   (	"NAME" VARCHAR2(20 BYTE), 
+	"MENU" VARCHAR2(20 BYTE), 
+	"CALORIE" NUMBER, 
+	"MNO" NUMBER
+   ) ;
